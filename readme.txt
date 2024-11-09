@@ -1,4 +1,4 @@
-README.txt
+#README.txt
 ===========
 
 This program simulates train traffic on a single railroad track, where trains can come from two directions, East (E) and West (W).
